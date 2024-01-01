@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="MyCleanArchitecture" uuid="5fb40cf7-64b8-4377-be1a-b6e1ee833bbf">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:D:\Project\CleanArchitectureDemo\WebApi\MyCleanArchitecture.db</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+      <libraries>
+        <library>
+          <url>file://$USER_HOME$/AppData/Roaming/DBeaverData/drivers/maven/maven-central/org.xerial/sqlite-jdbc-3.40.0.0.jar</url>
+        </library>
+      </libraries>
+    </data-source>
+  </component>
+</project>
